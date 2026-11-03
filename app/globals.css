@@ -1,0 +1,26 @@
+:root {
+  color-scheme: light;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100%;
+}
+
+body {
+  background: #f7f9fc;
+  font-family: Roboto, Arial, sans-serif;
+}
+
+.student-content h1,
+.student-content h2,
+.student-content h3,
+.student-content p {
+  margin-top: 0;
+}
